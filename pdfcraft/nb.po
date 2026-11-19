@@ -1414,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "Svart på hvitt"
 
@@ -1506,6 +1509,9 @@ msgstr "Bruk din egen modell (av som standard)"
 
 msgid "Browser's print dialog"
 msgstr "Nettleserens utskriftsdialog"
+
+msgid "Built-in"
+msgstr ""
 
 msgid "Bulleted list"
 msgstr ""
@@ -2217,6 +2223,9 @@ msgstr "Kam på"
 
 msgid "Comb of characters"
 msgstr "Tegnkam"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "Slå sammen filer"
@@ -3410,7 +3419,7 @@ msgid "Document title is showing in title bar"
 msgstr "Dokumenttittelen vises i tittellinjen"
 
 msgid "Document: {name}"
-msgstr ""
+msgstr "Dokument: {name}"
 
 msgid "Documents and view"
 msgstr "Dokumenter og visning"
@@ -3833,6 +3842,9 @@ msgstr "Sluttenhet"
 
 msgid "Endpoints"
 msgstr "Endepunkter"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr ""
@@ -8596,6 +8608,9 @@ msgstr "Fjern sladdemerker"
 msgid "Remove saved {what}"
 msgstr "Fjern lagret {what}"
 
+msgid "Remove scan speckle"
+msgstr ""
+
 msgid "Remove security"
 msgstr "Fjern sikkerhet"
 
@@ -10237,6 +10252,9 @@ msgstr "Enkeltside, sammenhengende"
 msgid "Single word or phrase"
 msgstr "Enkeltord eller frase"
 
+msgid "Skip"
+msgstr ""
+
 msgid "Skip files that already have text"
 msgstr ""
 
@@ -10514,10 +10532,16 @@ msgstr "Lagre JPEG-bilder som JPEG XL (mindre, kan angres; krever en leser som s
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr ""
 
 msgid "Straighten skewed scans"
+msgstr ""
+
+msgid "Straighten skewed text lines"
 msgstr ""
 
 msgid "Straighten the page"
@@ -10724,6 +10748,9 @@ msgid "Take this paper size off the list"
 msgstr ""
 
 msgid "Task"
+msgstr ""
+
+msgid "Tesseract"
 msgstr ""
 
 msgid "Test voice"
@@ -12065,6 +12092,9 @@ msgstr "Dette dokumentet ligger ikke i en mappe ennå: lagre det først"
 msgid "This document isn't password-protected"
 msgstr "Dette dokumentet er ikke passordbeskyttet"
 
+msgid "This document's script is asking"
+msgstr "Skriptet i dette dokumentet spør"
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Denne tegningen overskrider festegrensen; bare de første banene brukes."
 
@@ -12205,6 +12235,9 @@ msgstr ""
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "Driveren til denne skriveren tar ikke imot tosidig-innstillinger fra andre programmer, så dens egen innstilling gjelder. Endre den under Egenskaper…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "Denne forespørselen kommer fra dokumentet, ikke fra PdfCraft. Skriv bare inn et passord hvis du stoler på dette dokumentet."
 
 msgid "this signature can't be removed on its own"
 msgstr "denne signaturen kan ikke fjernes alene"

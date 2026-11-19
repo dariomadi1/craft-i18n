@@ -1414,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "সাদার ওপর কালো"
 
@@ -1506,6 +1509,9 @@ msgstr "নিজের মডেল ব্যবহার করুন (ডি�
 
 msgid "Browser's print dialog"
 msgstr "ব্রাউজারের প্রিন্ট ডায়ালগ"
+
+msgid "Built-in"
+msgstr ""
 
 msgid "Bulleted list"
 msgstr "বুলেট তালিকা"
@@ -2217,6 +2223,9 @@ msgstr "অক্ষরের ঘরের সংখ্যা"
 
 msgid "Comb of characters"
 msgstr "আলাদা খোপে অক্ষর"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "ফাইল একত্র করুন"
@@ -3410,7 +3419,7 @@ msgid "Document title is showing in title bar"
 msgstr "শিরোনাম বারে নথির শিরোনাম দেখানো হচ্ছে"
 
 msgid "Document: {name}"
-msgstr ""
+msgstr "নথি: {name}"
 
 msgid "Documents and view"
 msgstr "নথি ও দৃশ্য"
@@ -3833,6 +3842,9 @@ msgstr "শেষ সত্তা"
 
 msgid "Endpoints"
 msgstr "প্রান্তবিন্দু"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr ""
@@ -8596,6 +8608,9 @@ msgstr "গোপন অংশ মোছার চিহ্ন সরান"
 msgid "Remove saved {what}"
 msgstr "সংরক্ষিত {what} সরান"
 
+msgid "Remove scan speckle"
+msgstr ""
+
 msgid "Remove security"
 msgstr "সুরক্ষা সরান"
 
@@ -10237,6 +10252,9 @@ msgstr "এক পৃষ্ঠা ধারাবাহিক"
 msgid "Single word or phrase"
 msgstr "একটি শব্দ বা বাক্যাংশ"
 
+msgid "Skip"
+msgstr ""
+
 msgid "Skip files that already have text"
 msgstr ""
 
@@ -10514,10 +10532,16 @@ msgstr ""
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr ""
 
 msgid "Straighten skewed scans"
+msgstr ""
+
+msgid "Straighten skewed text lines"
 msgstr ""
 
 msgid "Straighten the page"
@@ -10724,6 +10748,9 @@ msgid "Take this paper size off the list"
 msgstr ""
 
 msgid "Task"
+msgstr ""
+
+msgid "Tesseract"
 msgstr ""
 
 msgid "Test voice"
@@ -12065,6 +12092,9 @@ msgstr ""
 msgid "This document isn't password-protected"
 msgstr "এই নথি পাসওয়ার্ড-সুরক্ষিত নয়"
 
+msgid "This document's script is asking"
+msgstr "এই নথির স্ক্রিপ্ট জানতে চাইছে"
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "এই অঙ্কন স্ন্যাপিং সীমা ছাড়িয়েছে; শুধু প্রথম দিকের পথ ব্যবহার করা হয়।"
 
@@ -12205,6 +12235,9 @@ msgstr ""
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "এই প্রিন্টারের ড্রাইভার অন্য প্রোগ্রাম থেকে দুই-পাশের সেটিং নেয় না, তাই এর নিজস্ব সেটিং প্রযোজ্য। এটি বদলাতে যান: বৈশিষ্ট্য…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "এই অনুরোধটি নথি থেকে এসেছে, PdfCraft থেকে নয়। এই নথিকে বিশ্বাস করলে তবেই পাসওয়ার্ড লিখুন।"
 
 msgid "this signature can't be removed on its own"
 msgstr ""

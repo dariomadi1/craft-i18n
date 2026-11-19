@@ -1414,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "سیاه روی سفید"
 
@@ -1506,6 +1509,9 @@ msgstr "مدل خودتان را بی‌آورید (به‌طور پیش‌فر�
 
 msgid "Browser's print dialog"
 msgstr "پنجره چاپ مرورگر"
+
+msgid "Built-in"
+msgstr ""
 
 msgid "Bulleted list"
 msgstr "فهرست نشانهدار"
@@ -2217,6 +2223,9 @@ msgstr "شان‌های"
 
 msgid "Comb of characters"
 msgstr "شانهٔ نویسه‌ها"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "ترکیب فایل‌ها"
@@ -3410,7 +3419,7 @@ msgid "Document title is showing in title bar"
 msgstr "عنوان سند در نوار عنوان نمایش داده می‌شود"
 
 msgid "Document: {name}"
-msgstr ""
+msgstr "سند: {name}"
 
 msgid "Documents and view"
 msgstr "سند‌ها و نمایش"
@@ -3833,6 +3842,9 @@ msgstr "موجودیت نهایی"
 
 msgid "Endpoints"
 msgstr "نقاط انت‌هایی"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr ""
@@ -8596,6 +8608,9 @@ msgstr "برداشتن علامت‌های سیاه‌کردن"
 msgid "Remove saved {what}"
 msgstr "حذف {what} ذخیره‌شده"
 
+msgid "Remove scan speckle"
+msgstr ""
+
 msgid "Remove security"
 msgstr "حذف امنیت"
 
@@ -10237,6 +10252,9 @@ msgstr "تک‌صفحه پیوسته"
 msgid "Single word or phrase"
 msgstr "واژه یا عبارت تکی"
 
+msgid "Skip"
+msgstr ""
+
 msgid "Skip files that already have text"
 msgstr ""
 
@@ -10514,10 +10532,16 @@ msgstr "ذخیره تصاویر JPEG به‌صورت JPEG XL (کوچک‌تر، 
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr ""
 
 msgid "Straighten skewed scans"
+msgstr ""
+
+msgid "Straighten skewed text lines"
 msgstr ""
 
 msgid "Straighten the page"
@@ -10724,6 +10748,9 @@ msgid "Take this paper size off the list"
 msgstr ""
 
 msgid "Task"
+msgstr ""
+
+msgid "Tesseract"
 msgstr ""
 
 msgid "Test voice"
@@ -12065,6 +12092,9 @@ msgstr ""
 msgid "This document isn't password-protected"
 msgstr "این سند با گذرواژه محافظت نشده است"
 
+msgid "This document's script is asking"
+msgstr "اسکریپت این سند می‌پرسد"
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "این ترسیم از حد چسبیدن فرا‌تر می‌رود؛ فقط مسیر‌های اول استفاده می‌شوند."
 
@@ -12205,6 +12235,9 @@ msgstr ""
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "درایور این چاپگر تنظیمات دوطرفه را از برنامه‌های دیگر نمی‌پذیرد، بنابراین تنظیم خودش اعمال می‌شود. آن را در «ویژگی‌ها…» تغییر دهید…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "این درخواست از سند است، نه از PdfCraft. فقط در صورتی گذرواژه وارد کنید که به این سند اعتماد دارید."
 
 msgid "this signature can't be removed on its own"
 msgstr ""

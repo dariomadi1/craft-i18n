@@ -1414,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "வெள்ளையில் கருப்பு"
 
@@ -1506,6 +1509,9 @@ msgstr "உங்கள் சொந்த மாதிரியைக் கொ
 
 msgid "Browser's print dialog"
 msgstr "உலாவியின் அச்சு உரையாடல்"
+
+msgid "Built-in"
+msgstr ""
 
 msgid "Bulleted list"
 msgstr "புள்ளிப் பட்டியல்"
@@ -2217,6 +2223,9 @@ msgstr "சீப்பு அமைப்பு:"
 
 msgid "Comb of characters"
 msgstr "எழுத்துச் சீப்பு"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "கோப்புகளை இணை"
@@ -3410,7 +3419,7 @@ msgid "Document title is showing in title bar"
 msgstr "ஆவணத் தலைப்பு தலைப்புப் பட்டையில் காட்டப்படுகிறது"
 
 msgid "Document: {name}"
-msgstr ""
+msgstr "ஆவணம்: {name}"
 
 msgid "Documents and view"
 msgstr "ஆவணங்களும் காட்சியும்"
@@ -3833,6 +3842,9 @@ msgstr "இறுதிப் பொருள்"
 
 msgid "Endpoints"
 msgstr "முனைப்புள்ளிகள்"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr ""
@@ -8596,6 +8608,9 @@ msgstr "மறைப்புக் குறிகளை நீக்கு"
 msgid "Remove saved {what}"
 msgstr "சேமித்த {what} ஐ நீக்கு"
 
+msgid "Remove scan speckle"
+msgstr ""
+
 msgid "Remove security"
 msgstr "பாதுகாப்பை நீக்கு"
 
@@ -10237,6 +10252,9 @@ msgstr "ஒற்றைப் பக்கம் தொடர்ச்சிய�
 msgid "Single word or phrase"
 msgstr "ஒற்றைச் சொல் அல்லது சொற்றொடர்"
 
+msgid "Skip"
+msgstr ""
+
 msgid "Skip files that already have text"
 msgstr ""
 
@@ -10514,10 +10532,16 @@ msgstr ""
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr ""
 
 msgid "Straighten skewed scans"
+msgstr ""
+
+msgid "Straighten skewed text lines"
 msgstr ""
 
 msgid "Straighten the page"
@@ -10724,6 +10748,9 @@ msgid "Take this paper size off the list"
 msgstr ""
 
 msgid "Task"
+msgstr ""
+
+msgid "Tesseract"
 msgstr ""
 
 msgid "Test voice"
@@ -12065,6 +12092,9 @@ msgstr ""
 msgid "This document isn't password-protected"
 msgstr "இந்த ஆவணம் கடவுச்சொல்லால் பாதுகாக்கப்படவில்லை"
 
+msgid "This document's script is asking"
+msgstr "இந்த ஆவணத்தின் ஸ்கிரிப்ட் கேட்கிறது"
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "இந்த வரைபடம் ஒட்டுதல் வரம்பை மீறுகிறது; முதல் சில பாதைகள் மட்டுமே பயன்படுத்தப்படுகின்றன."
 
@@ -12205,6 +12235,9 @@ msgstr ""
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "இந்த அச்சுப்பொறியின் இயக்கி பிற நிரல்களிலிருந்து இருபக்க அமைப்புகளை ஏற்காது, எனவே அதன் சொந்த அமைப்பு பொருந்தும். அதைப் பண்புகளில் மாற்றவும்…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "இந்தக் கோரிக்கை PdfCraft-இலிருந்து அல்ல, ஆவணத்திலிருந்து வருகிறது. இந்த ஆவணத்தை நம்பினால் மட்டுமே கடவுச்சொல்லை உள்ளிடவும்."
 
 msgid "this signature can't be removed on its own"
 msgstr ""

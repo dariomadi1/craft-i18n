@@ -1414,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr "Черно-бял документ"
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "Черно на бяло"
 
@@ -1506,6 +1509,9 @@ msgstr "Използвайте собствен модел (изключено �
 
 msgid "Browser's print dialog"
 msgstr "Диалог за печат на браузъра"
+
+msgid "Built-in"
+msgstr ""
 
 msgid "Bulleted list"
 msgstr "Списък с водещи символи"
@@ -2217,6 +2223,9 @@ msgstr "Разделено на"
 
 msgid "Comb of characters"
 msgstr "Гребен от знаци"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "Обедини файлове"
@@ -3410,7 +3419,7 @@ msgid "Document title is showing in title bar"
 msgstr "Заглавието на документа се показва в заглавната лента"
 
 msgid "Document: {name}"
-msgstr ""
+msgstr "Документ: {name}"
 
 msgid "Documents and view"
 msgstr "Документи и изглед"
@@ -3833,6 +3842,9 @@ msgstr ""
 
 msgid "Endpoints"
 msgstr "Крайни точки"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr "МЕХАНИЗЪМ · СТРАТЕГИЯ"
@@ -8596,6 +8608,9 @@ msgstr "Премахни маркировките за заличаване"
 msgid "Remove saved {what}"
 msgstr ""
 
+msgid "Remove scan speckle"
+msgstr ""
+
 msgid "Remove security"
 msgstr "Премахни защитата"
 
@@ -10237,6 +10252,9 @@ msgstr "Единична страница, непрекъснато"
 msgid "Single word or phrase"
 msgstr "Отделна дума или фраза"
 
+msgid "Skip"
+msgstr ""
+
 msgid "Skip files that already have text"
 msgstr "Пропускай файлове, които вече съдържат текст"
 
@@ -10514,11 +10532,17 @@ msgstr "Съхраняване на JPEG изображенията като JPE
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr "Изправяне на сканирана страница"
 
 msgid "Straighten skewed scans"
 msgstr "Изправяне на наклонени сканирани страници"
+
+msgid "Straighten skewed text lines"
+msgstr ""
 
 msgid "Straighten the page"
 msgstr "Изправи страницата"
@@ -10725,6 +10749,9 @@ msgstr "Премахнете този размер хартия от списъ�
 
 msgid "Task"
 msgstr "Задача"
+
+msgid "Tesseract"
+msgstr ""
 
 msgid "Test voice"
 msgstr "Тест на гласа"
@@ -12065,6 +12092,9 @@ msgstr "Този документ още не е в папка: първо го 
 msgid "This document isn't password-protected"
 msgstr "Този документ не е защитен с парола"
 
+msgid "This document's script is asking"
+msgstr "Скриптът на този документ пита"
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Този чертеж надвишава ограничението за прилепване; използват се само първите контури."
 
@@ -12205,6 +12235,9 @@ msgstr "Този принтер печата само от едната стра
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "Драйверът на този принтер не приема настройки за двустранен печат от други програми и прилага собствената си настройка. Променете я от Свойства…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "Тази заявка идва от документа, а не от PdfCraft. Въвеждайте парола само ако имате доверие на този документ."
 
 msgid "this signature can't be removed on its own"
 msgstr "този подпис не може да се премахне самостоятелно"

@@ -1414,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr "Schwarzweißdokument"
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "Schwarz auf Weiß"
 
@@ -1506,6 +1509,9 @@ msgstr "Eigenes Modell nutzen (standardmäßig aus)"
 
 msgid "Browser's print dialog"
 msgstr "Druckdialog des Browsers"
+
+msgid "Built-in"
+msgstr ""
 
 msgid "Bulleted list"
 msgstr "Aufzählung"
@@ -2217,6 +2223,9 @@ msgstr "Kammfeld mit"
 
 msgid "Comb of characters"
 msgstr "Kammfeld"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "Dateien zusammenführen"
@@ -3410,7 +3419,7 @@ msgid "Document title is showing in title bar"
 msgstr "Dokumenttitel wird in der Titelleiste angezeigt"
 
 msgid "Document: {name}"
-msgstr ""
+msgstr "Dokument: {name}"
 
 msgid "Documents and view"
 msgstr "Dokumente und Ansicht"
@@ -3833,6 +3842,9 @@ msgstr "Endentität"
 
 msgid "Endpoints"
 msgstr "Endpunkte"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr "ENGINE · STRATEGIE"
@@ -8596,6 +8608,9 @@ msgstr "Schwärzungsmarkierungen entfernen"
 msgid "Remove saved {what}"
 msgstr "Gespeicherte {what} entfernen"
 
+msgid "Remove scan speckle"
+msgstr ""
+
 msgid "Remove security"
 msgstr "Sicherheit entfernen"
 
@@ -10237,6 +10252,9 @@ msgstr "Einzelseite fortlaufend"
 msgid "Single word or phrase"
 msgstr "Einzelnes Wort oder Ausdruck"
 
+msgid "Skip"
+msgstr ""
+
 msgid "Skip files that already have text"
 msgstr "Dateien überspringen, die bereits Text enthalten"
 
@@ -10514,11 +10532,17 @@ msgstr "JPEG-Bilder als JPEG XL speichern (kleiner, rückgängig zu machen; erfo
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr "Begradigt eine gewölbte, gefaltete oder schräg fotografierte Seite, sodass ihre Textzeilen gerade verlaufen"
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr "Gescannte Seite geraderichten"
 
 msgid "Straighten skewed scans"
 msgstr "Schief eingescannte Seiten geraderichten"
+
+msgid "Straighten skewed text lines"
+msgstr ""
 
 msgid "Straighten the page"
 msgstr "Seite begradigen"
@@ -10725,6 +10749,9 @@ msgstr "Diese Papiergröße aus der Liste entfernen"
 
 msgid "Task"
 msgstr "Aufgabe"
+
+msgid "Tesseract"
+msgstr ""
 
 msgid "Test voice"
 msgstr "Stimme testen"
@@ -12065,6 +12092,9 @@ msgstr "Dieses Dokument liegt noch in keinem Ordner: Speichern Sie es zuerst"
 msgid "This document isn't password-protected"
 msgstr "Dieses Dokument ist nicht passwortgeschützt"
 
+msgid "This document's script is asking"
+msgstr "Das Skript dieses Dokuments fragt"
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Diese Zeichnung überschreitet das Einrastlimit; nur die ersten Pfade werden verwendet."
 
@@ -12205,6 +12235,9 @@ msgstr "Dieser Drucker druckt nur einseitig."
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "Der Treiber dieses Druckers übernimmt keine Einstellungen für beidseitigen Druck von anderen Programmen, daher gilt seine eigene Einstellung. Ändere sie unter Eigenschaften…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "Diese Anfrage stammt vom Dokument, nicht von PdfCraft. Geben Sie ein Passwort nur ein, wenn Sie diesem Dokument vertrauen."
 
 msgid "this signature can't be removed on its own"
 msgstr "diese Signatur kann nicht einzeln entfernt werden"

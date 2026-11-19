@@ -1414,6 +1414,9 @@ msgstr "Imatges de mapa de bits"
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "Negre sobre blanc"
 
@@ -1506,6 +1509,9 @@ msgstr "Porta el teu propi model (desactivat per defecte)"
 
 msgid "Browser's print dialog"
 msgstr "Diàleg d'impressió del navegador"
+
+msgid "Built-in"
+msgstr ""
 
 msgid "Bulleted list"
 msgstr "Bulleted list"
@@ -2217,6 +2223,9 @@ msgstr "Pentinat de"
 
 msgid "Comb of characters"
 msgstr "Pinta de caràcters"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "Combina fitxers"
@@ -3833,6 +3842,9 @@ msgstr "Entitat final"
 
 msgid "Endpoints"
 msgstr "Extrems"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr ""
@@ -8596,6 +8608,9 @@ msgstr "Elimina les marques de censura"
 msgid "Remove saved {what}"
 msgstr "Elimina {what} desats"
 
+msgid "Remove scan speckle"
+msgstr ""
+
 msgid "Remove security"
 msgstr "Elimina la seguretat"
 
@@ -10237,6 +10252,9 @@ msgstr "Pàgina única contínua"
 msgid "Single word or phrase"
 msgstr "Una sola paraula o frase"
 
+msgid "Skip"
+msgstr ""
+
 msgid "Skip files that already have text"
 msgstr ""
 
@@ -10514,11 +10532,17 @@ msgstr "Desa les imatges JPEG com a JPEG XL (més petites, es pot desfer; cal un
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr ""
 
 msgid "Straighten skewed scans"
 msgstr "Redreça els escanejats inclinats"
+
+msgid "Straighten skewed text lines"
+msgstr ""
 
 msgid "Straighten the page"
 msgstr "Straighten the page"
@@ -10724,6 +10748,9 @@ msgid "Take this paper size off the list"
 msgstr "Treu aquesta mida de paper de la llista"
 
 msgid "Task"
+msgstr ""
+
+msgid "Tesseract"
 msgstr ""
 
 msgid "Test voice"
@@ -12065,6 +12092,9 @@ msgstr "Aquest document encara no és en cap carpeta: deseu-lo primer"
 msgid "This document isn't password-protected"
 msgstr "Aquest document no està protegit amb contrasenya"
 
+msgid "This document's script is asking"
+msgstr "L'script d'aquest document pregunta"
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Aquest dibuix supera el límit d'ajust; només s'utilitzen els primers traçats."
 
@@ -12205,6 +12235,9 @@ msgstr "Aquesta impressora només imprimeix a una cara."
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "El controlador d'aquesta impressora no accepta la configuració de doble cara d'altres programes, de manera que s'aplica la seva pròpia configuració. Canvia-la a Propietats…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "Aquesta sol·licitud prové del document, no de PdfCraft. Introduïu una contrasenya només si confieu en aquest document."
 
 msgid "this signature can't be removed on its own"
 msgstr "aquesta signatura no es pot eliminar tota sola"

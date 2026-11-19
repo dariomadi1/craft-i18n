@@ -1414,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr "黑白文档"
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "白底黑字"
 
@@ -1506,6 +1509,9 @@ msgstr "自备模型（默认关闭）"
 
 msgid "Browser's print dialog"
 msgstr "浏览器的打印对话框"
+
+msgid "Built-in"
+msgstr ""
 
 msgid "Bulleted list"
 msgstr "项目符号列表"
@@ -2216,6 +2222,9 @@ msgstr "梳状（每格一字符），共"
 
 msgid "Comb of characters"
 msgstr "字符梳"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "合并文件"
@@ -3407,7 +3416,7 @@ msgid "Document title is showing in title bar"
 msgstr "标题栏中显示文档标题"
 
 msgid "Document: {name}"
-msgstr ""
+msgstr "文档：{name}"
 
 msgid "Documents and view"
 msgstr "文档与视图"
@@ -3829,6 +3838,9 @@ msgstr ""
 
 msgid "Endpoints"
 msgstr "端点"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr "引擎 · 策略"
@@ -8592,6 +8604,9 @@ msgstr "移除密文标记"
 msgid "Remove saved {what}"
 msgstr ""
 
+msgid "Remove scan speckle"
+msgstr ""
+
 msgid "Remove security"
 msgstr "删除安全性设置"
 
@@ -10233,6 +10248,9 @@ msgstr "单页连续"
 msgid "Single word or phrase"
 msgstr "单个词或短语"
 
+msgid "Skip"
+msgstr ""
+
 msgid "Skip files that already have text"
 msgstr "跳过已包含文本的文件"
 
@@ -10510,11 +10528,17 @@ msgstr "将 JPEG 图像存储为 JPEG XL（更小，可撤销；需要支持 JPE
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr "校正扫描页面的倾斜"
 
 msgid "Straighten skewed scans"
 msgstr "校正扫描件倾斜"
+
+msgid "Straighten skewed text lines"
+msgstr ""
 
 msgid "Straighten the page"
 msgstr "扶正页面"
@@ -10721,6 +10745,9 @@ msgstr "从列表中删除此纸张尺寸"
 
 msgid "Task"
 msgstr "任务"
+
+msgid "Tesseract"
+msgstr ""
 
 msgid "Test voice"
 msgstr "测试语音"
@@ -12060,6 +12087,9 @@ msgstr "此文档尚未保存在文件夹中：请先保存"
 msgid "This document isn't password-protected"
 msgstr "本文档未受密码保护"
 
+msgid "This document's script is asking"
+msgstr "此文档的脚本正在询问"
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "此图面超过吸附上限；仅使用最前面的路径。"
 
@@ -12200,6 +12230,9 @@ msgstr "此打印机仅支持单面打印。"
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "此打印机的驱动程序不接受其他程序的双面打印设置，因此使用其自身设置。更改位置：属性…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "此请求来自文档，而非 PdfCraft。仅在您信任此文档时才输入密码。"
 
 msgid "this signature can't be removed on its own"
 msgstr "此签名无法单独移除"

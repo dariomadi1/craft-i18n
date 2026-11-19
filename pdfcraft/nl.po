@@ -1414,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "Zwart op wit"
 
@@ -1506,6 +1509,9 @@ msgstr "Eigen model meenemen (standaard uit)"
 
 msgid "Browser's print dialog"
 msgstr "Afdrukvenster van de browser"
+
+msgid "Built-in"
+msgstr ""
 
 msgid "Bulleted list"
 msgstr "Lijst met opsommingstekens"
@@ -2217,6 +2223,9 @@ msgstr "Kam van"
 
 msgid "Comb of characters"
 msgstr "Tekenkam"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "Bestanden combineren"
@@ -3410,7 +3419,7 @@ msgid "Document title is showing in title bar"
 msgstr "De documenttitel staat in de titelbalk"
 
 msgid "Document: {name}"
-msgstr ""
+msgstr "Document: {name}"
 
 msgid "Documents and view"
 msgstr "Documenten en weergave"
@@ -3833,6 +3842,9 @@ msgstr "Eindentiteit"
 
 msgid "Endpoints"
 msgstr "Eindpunten"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr ""
@@ -8596,6 +8608,9 @@ msgstr "Zwartmaakmarkeringen verwijderen"
 msgid "Remove saved {what}"
 msgstr "Opgeslagen {what} verwijderen"
 
+msgid "Remove scan speckle"
+msgstr ""
+
 msgid "Remove security"
 msgstr "Beveiliging verwijderen"
 
@@ -10237,6 +10252,9 @@ msgstr "Eén pagina, doorlopend"
 msgid "Single word or phrase"
 msgstr "Eén woord of zin"
 
+msgid "Skip"
+msgstr ""
+
 msgid "Skip files that already have text"
 msgstr ""
 
@@ -10514,10 +10532,16 @@ msgstr ""
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr ""
 
 msgid "Straighten skewed scans"
+msgstr ""
+
+msgid "Straighten skewed text lines"
 msgstr ""
 
 msgid "Straighten the page"
@@ -10724,6 +10748,9 @@ msgid "Take this paper size off the list"
 msgstr ""
 
 msgid "Task"
+msgstr ""
+
+msgid "Tesseract"
 msgstr ""
 
 msgid "Test voice"
@@ -12065,6 +12092,9 @@ msgstr ""
 msgid "This document isn't password-protected"
 msgstr "Dit document is niet met een wachtwoord beveiligd"
 
+msgid "This document's script is asking"
+msgstr "Het script van dit document vraagt"
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Deze tekening overschrijdt de limiet voor vastklikken; alleen de eerste paden worden gebruikt."
 
@@ -12205,6 +12235,9 @@ msgstr ""
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "Het stuurprogramma van deze printer neemt dubbelzijdige instellingen niet over van andere programma's, dus de eigen instelling geldt. Wijzig die in Eigenschappen…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "Dit verzoek komt van het document, niet van PdfCraft. Voer alleen een wachtwoord in als u dit document vertrouwt."
 
 msgid "this signature can't be removed on its own"
 msgstr ""

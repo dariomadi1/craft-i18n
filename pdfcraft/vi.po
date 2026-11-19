@@ -1414,6 +1414,9 @@ msgstr "Ảnh một bit"
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "Đen trên nền trắng"
 
@@ -1506,6 +1509,9 @@ msgstr "Dùng mô hình của riêng bạn (mặc định tắt)"
 
 msgid "Browser's print dialog"
 msgstr "Hộp thoại in của trình duyệt"
+
+msgid "Built-in"
+msgstr ""
 
 msgid "Bulleted list"
 msgstr "Danh sách dấu đầu dòng"
@@ -2216,6 +2222,9 @@ msgstr "Dạng lược gồm"
 
 msgid "Comb of characters"
 msgstr "Dạng lược gồm các ký tự"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "Kết hợp tệp"
@@ -3829,6 +3838,9 @@ msgstr "Thực thể cuối"
 
 msgid "Endpoints"
 msgstr "Điểm cuối"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr ""
@@ -8592,6 +8604,9 @@ msgstr "Gỡ các dấu đánh dấu"
 msgid "Remove saved {what}"
 msgstr "Xóa {what} đã lưu"
 
+msgid "Remove scan speckle"
+msgstr ""
+
 msgid "Remove security"
 msgstr "Gỡ bảo mật"
 
@@ -10233,6 +10248,9 @@ msgstr "Một trang liên tục"
 msgid "Single word or phrase"
 msgstr "Một từ hoặc cụm từ"
 
+msgid "Skip"
+msgstr ""
+
 msgid "Skip files that already have text"
 msgstr ""
 
@@ -10510,11 +10528,17 @@ msgstr "Lưu ảnh JPEG dưới dạng JPEG XL (nhỏ hơn, có thể hoàn tác
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr "Căn thẳng trang đã quét"
 
 msgid "Straighten skewed scans"
 msgstr "Căn thẳng các bản quét bị nghiêng"
+
+msgid "Straighten skewed text lines"
+msgstr ""
 
 msgid "Straighten the page"
 msgstr "Làm thẳng trang"
@@ -10720,6 +10744,9 @@ msgid "Take this paper size off the list"
 msgstr "Gỡ khổ giấy này khỏi danh sách"
 
 msgid "Task"
+msgstr ""
+
+msgid "Tesseract"
 msgstr ""
 
 msgid "Test voice"
@@ -12060,6 +12087,9 @@ msgstr "Tài liệu này chưa nằm trong thư mục nào: hãy lưu trước"
 msgid "This document isn't password-protected"
 msgstr "Tài liệu này không được bảo vệ bằng mật khẩu"
 
+msgid "This document's script is asking"
+msgstr "Tập lệnh của tài liệu này đang hỏi"
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Bản vẽ này vượt quá giới hạn bắt dính; chỉ các đường đầu tiên được sử dụng."
 
@@ -12200,6 +12230,9 @@ msgstr "Máy in này chỉ in một mặt."
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "Trình điều khiển của máy in này không nhận cài đặt in hai mặt từ các chương trình khác, nên cài đặt riêng của nó được áp dụng. Hãy thay đổi trong Thuộc tính…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "Yêu cầu này đến từ tài liệu, không phải từ PdfCraft. Chỉ nhập mật khẩu nếu bạn tin cậy tài liệu này."
 
 msgid "this signature can't be removed on its own"
 msgstr "không thể gỡ riêng chữ ký này"
